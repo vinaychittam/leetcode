@@ -1,0 +1,1 @@
+Given a list of elements, containing all distint items from 0 to n, one item is to be missing. Find the item
