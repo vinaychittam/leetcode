@@ -1,0 +1,1 @@
+Given a list of integers (min 3 and max 100), the elements are distinct. Find how many triplets exists such that when added they result to zero
